@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello My Name is Telmo Santana
 
-<!--
-**Telmosantana/Telmosantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - 🔭 import Lover Cybersecurity ❤️ 
+  -  nickname  🎯Sniper
+  - location   🏠 São Paulo SP - Brazil                                                                          
+  -  occupation 👨‍🏫 I work as a helpdesk analyst 👩🏽‍🚀
+  - studying   💻 Cyber-security | Red Team | Pentest (In progess)| Ethical Hacker | DCPT ( in progress)
+  - focus      📌|  White Hat | 💀 Black Hat | bug bounty
+  -  Degree in computer forensics 🕵️
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=telmosantana&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=telmosantana&layout=compact&langs_count=7&theme=merko"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                                        
