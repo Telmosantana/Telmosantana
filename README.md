@@ -5,7 +5,7 @@
   - location   🏠 São Paulo SP - Brazil                                                                          
   -  occupation 👨‍🏫 I work as a helpdesk analyst 👩🏽‍🚀
   - studying   💻 Cyber-security | Red Team | Pentest (In progess)| Ethical Hacker | DCPT ( in progress)
-  - focus      📌|  White Hat | 💀 Black Hat | bug bounty
+  - focus      📌|  White Hat | bug bounty
   -  Degree in computer forensics 🕵️
 
 <div>
